@@ -46,3 +46,5 @@ Este projeto é uma aplicação web que inclui:
 
 ---
 
+https://calculadora-seve7n.netlify.app/
+https://calculadora-seve7n.netlify.app/
